@@ -50,3 +50,22 @@ img {
 .image {
     float: left;
 }
+
+#inline-block {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#backGroundClr {
+    background: url(./Assets2/Contact-Us_Hero.webp);
+    background-size: cover;
+}
+#backGroundPicture {
+    background: url(./Assets2/Under-Construction-Resume.jpeg);
+    background-size: cover;
+}
+.text-primary:hover {
+    text-shadow: 2px 2px rgb(25, 25, 85);
+
+}
+
