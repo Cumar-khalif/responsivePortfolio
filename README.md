@@ -29,3 +29,6 @@ First, i used the Bootstrap CSS Framework to create a mobile responsive portfoli
 * Pages contain your personalized information. (bio, name, images, links to social media, etc.)
 
 *properly utilize Bootstrap components and grid system.
+
+## links
+https://cumar-khalif.github.io/responsivePortfolio/
