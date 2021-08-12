@@ -6,10 +6,10 @@
     font-weight: bolder;
 }
 /* image */
-img {
+/* img {
     padding: 20px;
  
-}
+} */
 
 .give-margin-top {
     margin-top: 50px;
@@ -46,24 +46,25 @@ img {
 #con{
     color: rgb(62, 158, 137);
 }
-
+/* Image */
 .image {
     float: left;
 }
 
+  #backGroundClr {
+    background: url(./Assets/Images/Contact-Us_Hero.webp);
+    background-size: cover;
+}
+#backGroundPicture {
+    background: url(./Assets/Images/Contact-Us_Hero.webp);
+    background-size: cover;
+}
 #inline-block {
     display: flex;
     justify-content: space-evenly;
 }
 
-#backGroundClr {
-    background: url(./Assets2/Contact-Us_Hero.webp);
-    background-size: cover;
-}
-#backGroundPicture {
-    background: url(./Assets2/Under-Construction-Resume.jpeg);
-    background-size: cover;
-}
+
 .text-primary:hover {
     text-shadow: 2px 2px rgb(25, 25, 85);
 
@@ -74,3 +75,6 @@ img {
     font-weight: bold;
 }
 
+h2 {
+    font-family: 'Charm', cursive;
+}

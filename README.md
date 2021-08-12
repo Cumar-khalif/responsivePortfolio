@@ -1,7 +1,6 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+#  Responsive Portfolio
 
-In this website, i have created a resoinsive portfolio that contains my personal information. 
-The portfolio contains projects i have previously work on, like debugging a website for Horiseion.
+This portfolio contains updated .
 
 
 ## Directions
@@ -32,3 +31,7 @@ First, i used the Bootstrap CSS Framework to create a mobile responsive portfoli
 
 ## links
 https://cumar-khalif.github.io/responsivePortfolio/
+
+## U.S National Parks
+check out my project.
+ https://github.com/Cumar-khalif/U.S.-National-Parks
