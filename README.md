@@ -1,29 +1,11 @@
 #  Responsive Portfolio
 
-This portfolio contains updated .
+This is my portfolio. it contains the project i have worked on. For the U.S National park, i have worked with 3 other Developers.
 
 
 ## Directions
 
-First, i used the Bootstrap CSS Framework to create a mobile responsive portfolio.
 
-* i Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
-
-* Using Bootstrap, i developed my own portfolio site with the following items:
-
- * A navbar
-
-* A responsive layout
-
-* Responsive images
-
-* Functional, deployed application
-
-* Navbar on each page that contains links to Home/About, Contact, and Portfolio pages.
-
-* All links are working.
-
-* Used semantic html.
 
 * Pages contain your personalized information. (bio, name, images, links to social media, etc.)
 
@@ -35,3 +17,6 @@ https://cumar-khalif.github.io/responsivePortfolio/
 ## U.S National Parks
 check out my project.
  https://github.com/Cumar-khalif/U.S.-National-Parks
+ 
+ ##img
+ 
